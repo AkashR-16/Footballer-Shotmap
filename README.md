@@ -25,7 +25,7 @@ The project consists of two main Jupyter Notebook files:
     ```
 2. Import the necessary modules and libraries in `Footballer_Shotmap.ipynb` to visualize the shot maps.
 
-### Usage
+## Usage
 Once the data is scraped and dependencies are installed, open `Footballer_Shotmap.ipynb` to generate the shot map visualizations based on your chosen criteria.
 
 ---
